@@ -5,10 +5,10 @@ This script helps you find your most-liked YouTube comments by analyzing your Yo
 ## Features
 Key Features of this Fork:
 
-Multilingual Support: Works with non-English Takeout files (e.g., Ukrainian коментарі.csv, German, etc.).
-Large History Support: Automatically processes multiple split CSV files found in the folder.
-Quota Safety: If the API limit is reached, it safely stops and immediately generates the JSON report with the data collected so far.
-Auto-Resume: Simply run the script again the next day to continue from where it stopped.
+- Multilingual Support: Works with non-English Takeout files (e.g., Ukrainian коментарі.csv, German, etc.).
+- Large History Support: Automatically processes multiple split CSV files found in the folder.
+- Quota Safety: If the API limit is reached, it safely stops and immediately generates the JSON report with the data collected so far.
+- Auto-Resume: Simply run the script again the next day to continue from where it stopped.
 
 ## Setup Instructions
 
